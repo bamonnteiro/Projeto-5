@@ -1,0 +1,33 @@
+/* RESET CSS */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+header{
+    background-color:#453643;
+    color: white;
+    padding: 20px 0;
+    border-radius: 15px;
+}
+
+.news{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px;
+}
+
+article{
+    border: 1px solid #D5C43;
+    margin: 10px;
+    paddin:
+}
